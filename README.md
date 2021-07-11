@@ -1,3 +1,10 @@
+## Description
+Loom Link - Video Walkthrough of the web app: 
+https://www.loom.com/share/e34c3097a2874454805d2cbe4e9f6003
+
+### Architectural Diagram
+![Screen Shot 2021-06-30 at 9 26 50 PM](https://user-images.githubusercontent.com/26082320/124053860-91e86780-da53-11eb-857d-bbb398b04a87.png)
+
 ## Libraries used in this project
 Dropzone: npm install --save react-dropzone \
 PDFTron: npm i @pdftron/webviewer \
