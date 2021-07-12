@@ -12,7 +12,8 @@ https://www.loom.com/share/e34c3097a2874454805d2cbe4e9f6003
 - Remove WeFunder branding
 - Update UI of login components
 - Update full UI of the project
-  - find a few good websites as inspo  
+  - find a few good websites as inspo
+- Enable Google login
 
 ### Architectural Diagram
 ![Screen Shot 2021-06-30 at 9 26 50 PM](https://user-images.githubusercontent.com/26082320/124053860-91e86780-da53-11eb-857d-bbb398b04a87.png)
