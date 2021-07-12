@@ -2,6 +2,18 @@
 Loom Link - Video Walkthrough of the web app: 
 https://www.loom.com/share/e34c3097a2874454805d2cbe4e9f6003
 
+## Next Steps
+- Update routing so once a user is signed in, they are routed to another page (yet to be decided).
+- Decide on features to be included in Profile Page. At the moment, considering the following:
+  - Display a list of all uploaded presentations
+  - 1-click copy link to presentation to send to others
+- Consider what type of users we have - presenters & viewers. Viewers should be able to view presentations without signing in.
+- If a user is signed in, when they upload a presentation it gets automagically saved and is accessible on their profile.
+- Remove WeFunder branding
+- Update UI of login components
+- Update full UI of the project
+  - find a few good websites as inspo  
+
 ### Architectural Diagram
 ![Screen Shot 2021-06-30 at 9 26 50 PM](https://user-images.githubusercontent.com/26082320/124053860-91e86780-da53-11eb-857d-bbb398b04a87.png)
 
